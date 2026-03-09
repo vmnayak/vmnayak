@@ -140,11 +140,11 @@ Areas I am actively improving:
 
 ---
 
-# GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vmnayak\&show_icons=true)
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmnayak&show_icons=true&theme=default&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vmnayak\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vmnayak&layout=compact)
 
 ---
 
